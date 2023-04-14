@@ -1,0 +1,43 @@
+.container {
+    width: 750px;
+    height: 350px;
+    margin: auto;
+    margin-top: 200px;
+    background-color: gray ;
+    border: 10px;
+    border-color: gray;
+    padding: 5px;
+}
+
+.pic {
+    width: 100px;
+    margin: 40px 0px 0px 40px;
+}
+
+.banner {
+    background-color: cornflowerblue;
+    width: inherit;
+    height: 90px;
+}
+
+.body {
+    background-color: white;
+    border: 5px;
+    margin-top: -20px;
+    margin-left: -40px;
+    padding-top: 60px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    list-style-type: none;
+    /* height: 200px; */
+}
+
+.icon {
+    height: 20px;
+    margin-right: 10px;
+}
+
+.name {
+    font-size: xx-large;
+    margin-bottom: 10px;
+}
